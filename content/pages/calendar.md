@@ -4,20 +4,183 @@ title: Calendar
 uid: f7ee73f2-34f9-4459-a0d2-314f1d6ebc3d
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Part 1 - Ideas of "Nature"**{{< /td-colspan >}} |||
-| 2 | The Power of "Nature" | &nbsp; |
-| 3 | Various Ideas of Nature in European Thought | &nbsp; |
-| 4 | Tensions and Affinities Between European and Non-European Ideas of Nature | &nbsp; |
-| 5 | Tensions and Affinities Between European and Non-European Ideas of Nature (cont.) | Paper due one day after Lec #5 |
-| {{< td-colspan 3 >}}**Part 2 - Environments**{{< /td-colspan >}} |||
-| 6 | Doing Fieldwork on Environmental Issues | &nbsp; |
-| 7 | The Sea | &nbsp; |
-| 8 | The Land | &nbsp; |
-| 9 | The Forests | Paper due one day after Lec #9 |
-| {{< td-colspan 3 >}}**Part 3 - Debates over Science and Technology**{{< /td-colspan >}} |||
-| 10 | Nuclear Technologies | &nbsp; |
-| 11 | Toxic Pollutants | &nbsp; |
-| 12 | Conclusion | Final papers due one day after Lec #12
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1 - Ideas of "Nature"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Power of "Nature"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Various Ideas of Nature in European Thought
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Tensions and Affinities Between European and Non-European Ideas of Nature
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tensions and Affinities Between European and Non-European Ideas of Nature (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Paper due one day after Lec #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2 - Environments**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Doing Fieldwork on Environmental Issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Sea
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Land
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Forests
+{{< tdclose >}}
+{{< tdopen >}}
+Paper due one day after Lec #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3 - Debates over Science and Technology**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Toxic Pollutants
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Final papers due one day after Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
